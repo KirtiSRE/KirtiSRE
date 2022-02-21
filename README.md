@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kirti
-- 👀 I’m interested in all things related to SRE & DevOps. On top of it I have keen interest in Product Management.
-- 🌱 I’m currently learning Python in order to automate the boring stuff.
-- 💞️ I’m looking to collaborate on anything that is tech.
+- 👀 Trying to do SRE & DevOps. I show keen interest in Product Management.
+- 🌱 Recently started learning Python in order to automate the boring stuff.
+- 💞️ I like to collaborate on anything that is tech.
 
 <!---
 KirtiSRE/KirtiSRE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
